@@ -1,0 +1,40 @@
+[URI of the OWL(RDF/XML) output file]
+http://purl.obolibrary.org/obo/OCOD/CHEBI_import.owl
+
+[Source ontology]
+CHEBI
+
+[Low level source term URIs]
+http://purl.obolibrary.org/obo/CHEBI_30879 # alcohol
+http://purl.obolibrary.org/obo/CHEBI_119915 # fentanyl
+http://purl.obolibrary.org/obo/CHEBI_27958 # cocaine
+http://purl.obolibrary.org/obo/CHEBI_92386  # xylazine 
+http://purl.obolibrary.org/obo/CHEBI_27808  # heroin 
+http://purl.obolibrary.org/obo/CHEBI_6807 # methadone 
+http://purl.obolibrary.org/obo/CHEBI_17303  # morphine 
+http://purl.obolibrary.org/obo/CHEBI_7852  # oxycodone 
+http://purl.obolibrary.org/obo/CHEBI_4710 # doxepin
+http://purl.obolibrary.org/obo/CHEBI_35482 # narcotic
+http://purl.obolibrary.org/obo/CHEBI_6956 # Mitragynine 
+http://purl.obolibrary.org/obo/CHEBI_6904 # metoprolol 
+http://purl.obolibrary.org/obo/CHEBI_9123 # sertraline 
+http://purl.obolibrary.org/obo/CHEBI_17824 # Isopropanol 
+http://purl.obolibrary.org/obo/CHEBI_101278 # diltiazem 
+http://purl.obolibrary.org/obo/CHEBI_9654 # trazodone
+http://purl.obolibrary.org/obo/CHEBI_7735 # olanzapine
+http://purl.obolibrary.org/obo/CHEBI_8707 # quetiapine
+http://purl.obolibrary.org/obo/CHEBI_2666 # amitriptyline
+http://purl.obolibrary.org/obo/CHEBI_5790 # hydromorphone
+http://purl.obolibrary.org/obo/CHEBI_5118 # fluoxetine
+
+[Top level source term URIs and target direct superclass URIs]
+http://purl.obolibrary.org/obo/CHEBI_24431 # chemical entity
+subClassOf http://purl.obolibrary.org/obo/BFO_0000040 # material entity
+
+[Source term retrieval setting]
+includeComputedIntermediates
+
+[Source annotation URIs]
+includeAllAnnotationProperties
+
+[Source annotation URIs to be excluded]
