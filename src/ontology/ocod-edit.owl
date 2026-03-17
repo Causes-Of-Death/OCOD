@@ -115,19 +115,19 @@
     
 
 
-    <!-- http://purl.obolibrary.org/obo/OCOD_0000002 -->
+    <!-- http://purl.obolibrary.org/obo/OCOD_000002 -->
 
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCOD_0000002">
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCOD_000002">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCOD_0000001"/>
         <rdfs:label xml:lang="en">death due to intoxication</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- http://purl.obolibrary.org/obo/OCOD_0000003 -->
+    <!-- http://purl.obolibrary.org/obo/OCOD_000003 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCOD_00000073">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCOD_0000002"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCOD_000002"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OCOD_0000035"/>
@@ -139,37 +139,37 @@
     
 
 
-    <!-- http://purl.obolibrary.org/obo/OCOD_0000004 -->
+    <!-- http://purl.obolibrary.org/obo/OCOD_000004 -->
 
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCOD_0000004">
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCOD_000004">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000015"/>
         <rdfs:label xml:lang="en">intoxication</rdfs:label>
     </owl:Class>
     
     
 
-    <!-- http://purl.obolibrary.org/obo/OCOD_0000005 -->
+    <!-- http://purl.obolibrary.org/obo/OCOD_000005 -->
 
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCOD_0000005">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCOD_0000004"/>
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCOD_000005">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCOD_000004"/>
         <rdfs:label xml:lang="en">fentanyl analog intoxication</rdfs:label>
     </owl:Class>
 
 
 
-    <!-- http://purl.obolibrary.org/obo/OCOD_0000006 -->
+    <!-- http://purl.obolibrary.org/obo/OCOD_000006 -->
 
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCOD_0000006">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCOD_0000005"/>
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCOD_000006">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCOD_000005"/>
         <rdfs:label xml:lang="en">acetyl fentanyl intoxication</rdfs:label>
     </owl:Class>
 
 
 
-    <!-- http://purl.obolibrary.org/obo/OCOD_0000007 -->
+    <!-- http://purl.obolibrary.org/obo/OCOD_000007 -->
 
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCOD_0000007">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCOD_0000004"/>
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCOD_000007">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCOD_000004"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0000057"/>
@@ -184,7 +184,7 @@
     <!-- http://purl.obolibrary.org/obo/OCOD_000008 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCOD_000008">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCOD_0000004"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCOD_000004"/>
         <rdfs:label xml:lang="en">fluoxetine intoxication</rdfs:label>
     </owl:Class>
     
@@ -193,7 +193,7 @@
     <!-- http://purl.obolibrary.org/obo/OCOD_000009 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCOD_000009">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCOD_0000004"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCOD_000004"/>
         <rdfs:label xml:lang="en">combined substance intoxication</rdfs:label>
     </owl:Class>
     
@@ -217,7 +217,7 @@
     <!-- http://purl.obolibrary.org/obo/OCOD_0000011 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCOD_0000011">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCOD_0000004"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCOD_000004"/>
         <rdfs:label xml:lang="en">eutylone intoxication</rdfs:label>
     </owl:Class>
     
@@ -226,7 +226,7 @@
     <!-- http://purl.obolibrary.org/obo/OCOD_0000012 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCOD_0000012">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCOD_0000004"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCOD_000004"/>
         <rdfs:label xml:lang="en">hydromorphone intoxication</rdfs:label>
     </owl:Class>
     
@@ -235,7 +235,7 @@
     <!-- http://purl.obolibrary.org/obo/OCOD_0000013 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCOD_0000013">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCOD_0000009"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCOD_000009"/>
         <rdfs:label xml:lang="en">fentanyl and methadone intoxication</rdfs:label>
     </owl:Class>
     
@@ -244,7 +244,7 @@
     <!-- http://purl.obolibrary.org/obo/OCOD_0000015 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCOD_0000015">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCOD_0000004"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCOD_000004"/>
         <rdfs:label xml:lang="en">amitriptyline intoxication</rdfs:label>
     </owl:Class>
     
@@ -262,7 +262,7 @@
     <!-- http://purl.obolibrary.org/obo/OCOD_0000016 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCOD_0000016">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCOD_0000004"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCOD_000004"/>
         <rdfs:label xml:lang="en">quetiapine intoxication</rdfs:label>
     </owl:Class>
     
@@ -271,7 +271,7 @@
     <!-- http://purl.obolibrary.org/obo/OCOD_0000017 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCOD_0000017">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCOD_0000004"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCOD_000004"/>
         <rdfs:label xml:lang="en">olanzapine intoxication</rdfs:label>
     </owl:Class>
     
@@ -280,7 +280,7 @@
     <!-- http://purl.obolibrary.org/obo/OCOD_0000018 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCOD_0000018">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCOD_0000004"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCOD_000004"/>
         <rdfs:label xml:lang="en">diltiazem intoxication</rdfs:label>
     </owl:Class>
     
@@ -289,7 +289,7 @@
     <!-- http://purl.obolibrary.org/obo/OCOD_0000019 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCOD_0000019">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCOD_0000004"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCOD_000004"/>
         <rdfs:label xml:lang="en">trazodone intoxication</rdfs:label>
     </owl:Class>
     
@@ -298,7 +298,7 @@
     <!-- http://purl.obolibrary.org/obo/OCOD_0000020 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCOD_0000020">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCOD_0000004"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCOD_000004"/>
         <rdfs:label xml:lang="en">isopropanol intoxication</rdfs:label>
     </owl:Class>
     
@@ -307,7 +307,7 @@
     <!-- http://purl.obolibrary.org/obo/OCOD_0000021 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCOD_0000021">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCOD_0000004"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCOD_000004"/>
         <rdfs:label xml:lang="en">sertraline intoxication</rdfs:label>
     </owl:Class>
     
@@ -316,7 +316,7 @@
     <!-- http://purl.obolibrary.org/obo/OCOD_0000022 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCOD_0000022">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCOD_0000004"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCOD_000004"/>
         <rdfs:label xml:lang="en">metoprolol intoxication</rdfs:label>
     </owl:Class>
     
@@ -325,7 +325,7 @@
     <!-- http://purl.obolibrary.org/obo/OCOD_0000023 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCOD_0000023">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCOD_0000004"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCOD_000004"/>
         <rdfs:label xml:lang="en">mitragynine intoxication</rdfs:label>
     </owl:Class>
     
@@ -402,7 +402,7 @@
      <!-- http://purl.obolibrary.org/obo/OCOD_0000031 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCOD_0000031">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCOD_0000004"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCOD_000004"/>
         <rdfs:label xml:lang="en">ethanol intoxication</rdfs:label>
     </owl:Class>
 
@@ -410,7 +410,7 @@
     <!-- http://purl.obolibrary.org/obo/OCOD_0000032 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCOD_0000032">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCOD_0000009"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCOD_000009"/>
         <rdfs:label xml:lang="en">ethanol and fentanyl intoxication</rdfs:label>
     </owl:Class>
 
@@ -418,7 +418,7 @@
     <!-- http://purl.obolibrary.org/obo/OCOD_0000033 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCOD_0000033">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCOD_0000004"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCOD_000004"/>
         <rdfs:label xml:lang="en">cocaine intoxication</rdfs:label>
     </owl:Class>
 
@@ -426,7 +426,7 @@
     <!-- http://purl.obolibrary.org/obo/OCOD_0000034 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCOD_0000034">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCOD_0000002"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCOD_000002"/>
         <rdfs:label xml:lang="en">death due to combined substance intoxication</rdfs:label>
     </owl:Class>
 
