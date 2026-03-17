@@ -8,8 +8,8 @@ OCOD is intended to support automated classification of free-text cause-of-death
 All ontology content is freely available and open access. OCOD is intended as a community resource for forensic pathologists, toxicologists, epidemiologists, vital records personnel, and informatics researchers working with death certification data.
 
 ## Developers:
-- Jesse Suben, John Hopkins University
-- Murphy Kenny, John Hopkins University
-- Avi Rosenberg, John Hopkins University
+- Jesse Suben, Johns Hopkins University
+- Murphy Kenny, Johns Hopkins University
+- Avi Rosenberg, Johns Hopkins University
 - Oliver He, University of Michigan
 
