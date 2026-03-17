@@ -150,7 +150,7 @@
 
     <!-- http://purl.obolibrary.org/obo/OCOD_000005 -->
 
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCOD_0000035">
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCOD_0000005">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCOD_0000004"/>
         <rdfs:label xml:lang="en">fentanyl analog intoxication</rdfs:label>
     </owl:Class>
