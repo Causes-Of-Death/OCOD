@@ -3,8 +3,8 @@
     <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/OCOD/CHEBI_import.owl" uri="imports/CHEBI_import.owl"/>
     <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/cob/releases/2025-12-12/cob.owl" uri="imports/cob.owl"/>
     <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
-        <uri id="Automatically generated entry, Timestamp=1773694469661" name="http://purl.obolibrary.org/obo/OCOD/CHEBI_import.owl" uri="imports/CHEBI_import.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1773694469661" name="http://purl.obolibrary.org/obo/cob.owl" uri="imports/cob.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1773694469661" name="http://purl.obolibrary.org/obo/sgpo.owl" uri="ocod-edit.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1773777419621" name="http://purl.obolibrary.org/obo/OCOD/CHEBI_import.owl" uri="imports/CHEBI_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1773777419621" name="http://purl.obolibrary.org/obo/cob.owl" uri="imports/cob.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1773777419621" name="http://purl.obolibrary.org/obo/sgpo.owl" uri="ocod-edit.owl"/>
     </group>
 </catalog>

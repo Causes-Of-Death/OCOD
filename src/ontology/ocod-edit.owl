@@ -15,16 +15,16 @@
     <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/ocod.owl">
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/OCOD/CHEBI_import.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/cob/releases/2025-12-12/cob.owl"/>
-        <dc:creator xml:lang="en">Yongqun &quot;Oliver&quot; He (YH)</dc:creator>
         <dc:creator>Avi Rosenberg</dc:creator>
         <dc:creator>Jesse Suben</dc:creator>
         <dc:creator>Murphy Kenny</dc:creator>
-        <dc:date xml:lang="en">03-16-2026</dc:date>
+        <dc:creator xml:lang="en">Yongqun &quot;Oliver&quot; He (YH)</dc:creator>
+        <dc:date xml:lang="en">03-17-2026</dc:date>
         <dc:description xml:lang="en">OCOD is a biomedical ontology in the area of causes of death.</dc:description>
         <dc:format xml:lang="en">OWL-DL</dc:format>
         <dc:subject xml:lang="en">OCOD: A biomedical ontology in the area of causes of death</dc:subject>
         <dc:title xml:lang="en">OCOD: Ontology of Causes of Death</dc:title>
-        <owl:versionInfo xml:lang="en">Vision Release: 1.0.01</owl:versionInfo>
+        <owl:versionInfo xml:lang="en">Vision Release: 1.0.02</owl:versionInfo>
     </owl:Ontology>
     
 
