@@ -89,7 +89,7 @@
 
     <!-- http://purl.obolibrary.org/obo/OCOD_0000011 -->
 
-    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/OCOD_0000011">
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/OCOD_0000035">
         <rdfs:label xml:lang="en">caused by</rdfs:label>
     </owl:ObjectProperty>
     
@@ -130,8 +130,8 @@
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCOD_0000002"/>
         <rdfs:subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OCOD_0000011"/>
-                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/OCOD_0000009"/>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OCOD_0000035"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/OCOD_0000007"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:label xml:lang="en">death due to fentanyl intoxication</rdfs:label>
@@ -151,7 +151,7 @@
     <!-- http://purl.obolibrary.org/obo/OCOD_000005 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCOD_0000035">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCOD_0000008"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCOD_0000004"/>
         <rdfs:label xml:lang="en">fentanyl analog intoxication</rdfs:label>
     </owl:Class>
 
