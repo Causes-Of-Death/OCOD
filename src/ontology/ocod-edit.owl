@@ -148,7 +148,7 @@
     
     
 
-    <!-- http://purl.obolibrary.org/obo/OCOD_000005 -->
+    <!-- http://purl.obolibrary.org/obo/OCOD_0000005 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCOD_0000005">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCOD_0000004"/>
@@ -157,10 +157,10 @@
 
 
 
-    <!-- http://purl.obolibrary.org/obo/OCOD_000006 -->
+    <!-- http://purl.obolibrary.org/obo/OCOD_0000006 -->
 
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCOD_000006">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCOD_000005"/>
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCOD_0000006">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCOD_0000005"/>
         <rdfs:label xml:lang="en">acetyl fentanyl intoxication</rdfs:label>
     </owl:Class>
 
